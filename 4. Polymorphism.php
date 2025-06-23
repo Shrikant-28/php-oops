@@ -2,6 +2,7 @@
 /**
 * POLYMORPHISM - 
 * Definition: Polymorphism allows different classes to define methods with the same name but different behaviors.
+* Polymorphism allows different classes to implement the same method in their own way.
 */
 
 class Animal {
